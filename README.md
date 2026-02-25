@@ -1,6 +1,7 @@
 # Weather Website
 
 A simple, responsive web application that allows users to search the current weather in **any city**. Built using **HTML, CSS, and JavaScript**, this project fetches live weather data from the OpenWeatherMap API.
+
 🔗 Live Website:
 https://diyana1111.github.io/Weather-Website/
 
